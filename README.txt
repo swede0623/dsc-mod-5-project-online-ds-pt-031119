@@ -1,13 +1,9 @@
-Contents of My Repository - The Important Files
+Project #4 for Flatiron School Data Science Bootcamp (Completed October/2019)
+
+Category: Data Analysis and Prediction using Many Machine Learning Algorithms
+
+Programming Language: Python
 
 
-
-Project.ipynb - My finished project file
-
-scratch_paper.ipynb - Other code written for the project
-
-shot_logs.csv - Origin of my dataset, downloaded from Kaggle
-
-Module 5 Presentation.pdf - Google Slides of my presentation
-
-Presentation_Video.mp4 - Presentation Video file
+** Please consult the Presentation_Video.mp4 file for a short overview of this project 
+*** Full project w/code can be found in Project.ipynb
